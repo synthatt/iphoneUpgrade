@@ -1,0 +1,247 @@
+{
+	"iPhoneXSMax": {
+		"purchase": {
+			"capacities": [64, 256, 512],
+			"fullprice": {
+				"64": 1099,
+				"256": 1249,
+				"512": 1449
+				},
+			"iup": {
+				"64": 54.08,
+				"256": 60.33,
+				"512": 68.66
+				},
+			"applecare": {
+				"ac1full": 199,
+				"ac1financed": 9.99,
+				"ac2full": 299,
+				"ac2financed": 14.99
+				},
+			"promo": true
+			}
+		},
+	
+	"iPhoneXS": {
+		"purchase": {
+			"capacities": [64, 256, 512],
+			"fullprice": {
+				"64": 999,
+				"256": 1149,
+				"512": 1349
+				},
+			"iup": {
+				"64": 49.91,
+				"256": 56.16,
+				"512": 64.50
+				},
+			"applecare": {
+				"ac1full": 199,
+				"ac1financed": 9.99,
+				"ac2full": 299,
+				"ac2financed": 14.99
+				},
+			"promo": true
+			}
+		},
+	
+	"iPhoneXR": {
+		"purchase": {
+			"capacities": [64, 128, 256],
+			"fullprice": {
+				"64": 749,
+				"128": 799,
+				"256": 899
+				},
+			"iup": {
+				"64": 37.41,
+				"128": 39.50,
+				"256": 43.66
+				},
+			"applecare": {
+				"ac1full": 149,
+				"ac1financed": 7.99,
+				"ac2full": 249,
+				"ac2financed": 12.99
+				},
+			"promo": true
+			}
+		},
+	
+	"iPhoneX": {
+		"tradein": {
+			"good": 500,
+			"damaged": 175
+			}
+		},
+		
+	"iPhone8Plus": {
+		"tradein": {
+			"good": 350,
+			"damaged": 150
+			},
+		"purchase": {
+			"capacities": [64, 256],
+			"fullprice": {
+				"64": 699,
+				"256": 849
+				},
+			"applecare": {
+				"ac1full": 149,
+				"ac1financed": 7.99,
+				"ac2full": 249,
+				"ac2financed": 12.99
+				}
+			}
+		},
+	
+	"iPhone8": {
+		"tradein": {
+			"good": 275,
+			"damaged": 125,
+			"promo": {
+				"good": 300,
+				"damaged": 150
+				}
+			},
+		"purchase": {
+			"capacities": [64, 256],
+			"fullprice": {
+				"64": 599,
+				"256": 749
+				},
+			"applecare": {
+				"ac1full": 129,
+				"ac1financed": 5.99,
+				"ac2full": 199,
+				"ac2financed": 9.99
+				}
+			}
+		},
+	
+	"iPhone7Plus": {
+		"tradein": {
+			"good": 250,
+			"damaged": 50,
+			"promo": {
+				"good": 300,
+				"damaged": 100
+				}
+			},
+		"purchase": {
+			"capacities": [32, 128],
+			"fullprice": {
+				"32": 569,
+				"128": 669
+				},
+			"applecare": {
+				"ac1full": 149,
+				"ac1financed": 7.99,
+				"ac2full": 249,
+				"ac2financed": 12.99
+				}
+			}
+		},
+	
+	"iPhone7": {
+		"tradein": {
+			"good": 175,
+			"damaged": 25,
+			"promo": {
+				"good": 250,
+				"damaged": 100
+				}
+			},
+		"purchase": {
+			"capacities": [32, 128],
+			"fullprice": {
+				"32": 449,
+				"128": 549
+				},
+			"applecare": {
+				"ac1full": 129,
+				"ac1financed": 5.99,
+				"ac2full": 199,
+				"ac2financed": 9.99
+				}
+			}
+		},
+	
+	"iPhone6sPlus": {
+		"tradein": {
+			"good": 150,
+			"damaged": 25,
+			"promo": {
+				"good": 250,
+				"damaged": 75
+				}
+			}
+		},
+	
+	"iPhone6s": {
+		"tradein": {
+			"good": 100,
+			"damaged": 0,
+			"promo": {
+				"good": 200,
+				"damaged": 75
+				}
+			}
+		},
+	
+	"iPhone6Plus": {
+		"tradein": {
+			"good": 100,
+			"damaged": 0,
+			"promo": {
+				"good": 200,
+				"damaged": 50
+				}
+			}
+		},
+	
+	"iPhone6": {
+		"tradein": {
+			"good": 75,
+			"damaged": 0,
+			"promo": {
+				"good": 150,
+				"damaged": 50
+				}
+			}
+		},
+	
+	"iPhoneSE": {
+		"tradein": {
+			"good": 65,
+			"damaged": 0
+			}
+		},
+	
+	"iPhone5s": {
+		"tradein": {
+			"good": 30,
+			"damaged": 0
+			}
+		},
+	
+	"iPhone5c": {
+		"tradein": {
+			"good": 25,
+			"damaged": 0
+			}
+		},
+	
+	"iPhone5": {
+		"tradein": {
+			"good": 25,
+			"damaged": 0
+			}
+		},
+	
+	"None": {
+		"tradein": {
+			"none": 0
+			}
+		}
+}
